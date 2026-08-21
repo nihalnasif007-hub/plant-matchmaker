@@ -1,0 +1,18 @@
+.indoor img {
+      width: 300px;
+    transition: 0.4s ease;
+
+}
+
+.indoor img:hover {
+    transform: translateY(-15px);
+}
+
+.curated{
+     width: auto;
+    transition: 0.4s ease;
+}
+
+.curated:hover {
+    transform: translateY(-15px);
+}
